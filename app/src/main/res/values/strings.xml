@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FlyTV</string>
+    <string name="settings">Настройки</string>
+    <string name="url_label">Адрес веб-страницы</string>
+    <string name="save">Сохранить</string>
+    <string name="url_empty">Введите ссылку</string>
+</resources>
